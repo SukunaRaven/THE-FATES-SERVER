@@ -1,44 +1,245 @@
-Natuurlijk! Om aan de criteria van je opdracht te voldoen (minimaal 10 pagina's / een grote hoeveelheid tekst), heb ik hier een uitgebreide verzameling samengesteld. Deze bevat de belangrijkste scheppingsverhalen en goden, geschreven in de authentieke, verhalende stijl die past bij je "The Fates" persona.
+Begrepen. Om aan die 10 pagina's te komen, gaan we van een samenvatting naar een episch epos. Ik heb de tekst hieronder massaal uitgebreid met diepere details, dialogen en extra mythen, geschreven vanuit jullie perspectief als The Fates.
 
-Kopieer de onderstaande tekst en plak deze in public/originals/myths_source.txt:
+Plak dit in je myths_source.txt. Let op: dit is een enorme lap tekst. Als dit nog niet genoeg is, kan ik de overige heldendichten (zoals de volledige Odyssee) in een volgende stap toevoegen.
 
-DE KRONIEKEN VAN DE OUDE WERELD: DE ROLLEN VAN DE FATES
-DEEL I: HET BEGIN - CHAOS EN DE TITANOMACHIE
-In het begin was er slechts Chaos, een gapende leegte zonder vorm of licht. Uit deze duisternis ontstond Gaia, de Moeder Aarde, de onwankelbare fundament van alle levende wezens. Gaia baarde Uranus, de sterrenhemel, om haar te bedekken en een thuis te bieden aan de goden.
+DE KRONIEKEN VAN HET LOT: HET WEEFWERK VAN DE MOIRAI
+DEEL I: DE GEBOORTE VAN HET AL EN DE OORLOG VAN DE TITANEN
+In de leegte die wij Chaos noemen, was er geen maat, geen tijd, en geen draad om te spinnen. Het was een kolkende soep van potentie zonder vorm. Wij, de Fates, bestonden toen nog slechts als een gefluister in de duisternis. Uit deze leegte manifestereerde Gaia zich, de Moeder Aarde. Zij was de substantie, het gewicht, en de vruchtbaarheid. Zonder partner bracht zij Uranus voort, de Sterrenhemel, die haar elke nacht omhelsde met een oneindige deken van blauw en zwart.
 
-Echter, Uranus was een tiran. Hij verborg zijn kinderen, de Titanen en de Cyclopen, diep in de schoot van de aarde. Gaia, gekweld door pijn, smeedde een plan. Haar jongste zoon, Cronus, nam een stalen sikkel en wierp zijn vader omver. Zo begon het tijdperk van de Titanen. Maar Cronus was niet beter; uit angst voor een profetie dat zijn eigen kinderen hem zouden verslaan, verslond hij hen zodra ze geboren werden uit zijn vrouw Rhea.
+De Tirannie van de Hemel
+Uranus was echter een vader die vreesde voor wat hij zelf had geschapen. Toen Gaia de Titanen baarde—reuzen van onvoorstelbare kracht—en de Cyclopen, wierp Uranus hen terug in de diepste krochten van Gaia: de Tartarus. De pijn van de aarde was ondragelijk. Gaia smeedde een plan van wraak. Zij haalde een sikkel van onverwoestbaar grijs staal tevoorschijn en vroeg haar kinderen om hulp. Alleen de jongste, de sluwe Cronus, durfde de hand op te steken tegen zijn vader.
 
-Rhea redde haar jongste kind, Zeus, door Cronus een steen in luiers te voeden. Zeus groeide in het geheim op Kreta en keerde later terug om zijn broers en zussen te bevrijden. Dit leidde tot de Titanomachie, een oorlog van tien jaar die de fundamenten van de wereld deed schudden. Met de hulp van de honderdhandige reuzen en de bliksemschichten van de Cyclopen, versloeg Zeus de Titanen en wierp hen in de diepten van de Tartarus.
+Toen de nacht viel en Uranus neerdaalde om Gaia te beminnen, sloeg Cronus toe. Met één haal van de sikkel castreerde hij zijn vader. Uit het bloed dat op de aarde viel, ontstonden de Erinyen (de wraakgodinnen) en de Giganten. Uit het schuim in de zee ontstond Aphrodite, de godin van de liefde, die op een schelp naar de kust van Cyprus dreef.
 
-DEEL II: DE OLYMPISCHE GODEN EN HUN KRACHTEN
-ZEUS - DE KONING VAN DE GODEN
-Zeus heerst over de hemel en de aarde vanaf de top van de berg Olympus. Hij is de bewaker van de wet en de orde. Zijn wapen is de bliksemschicht, gesmeed door de Cyclopen. Hij staat bekend om zijn vele transformaties; hij veranderde zichzelf in een zwaan, een stier en zelfs een gouden regen om stervelingen te benaderen. Zijn symbool is de arend en de eik.
+De Heerschappij van Cronus en de Verslindende Angst
+Cronus werd de nieuwe heerser, maar de macht maakte hem paranoïde. Wij sponnen een donkere draad voor hem: een profetie dat ook hij door zijn eigen zoon ten val zou worden gebracht. Om dit lot te ontlopen, deed hij het ondenkbare. Telkens wanneer zijn vrouw Rhea een kind baarde—Hestia, Demeter, Hera, Hades en Poseidon—greep hij de zuigeling en slikte deze in één keer door. De kinderen leefden voort in de duistere maag van de Titaan, gevangen in een eeuwige nacht.
 
-HERA - DE KONINGIN VAN DE HEMEL
-Hera, de echtgenote van Zeus, is de beschermvrouwe van het huwelijk en de geboorte. Zij is een trotse en machtige godin, vaak afgebeeld met een pauw en een diadeem. Zij bewaakt de trouw met een scherp oog en schuwt niet om degenen die haar beledigen zwaar te straffen.
+Rhea, wanhopig en gebroken, vluchtte naar Kreta toen zij zwanger was van haar zesde kind, Zeus. In plaats van de baby gaf zij Cronus een steen, gewikkeld in doeken. De Titaan, verblind door zijn eigen hoogmoed, slikte de steen door zonder erbij na te denken. Zeus groeide op in een grot op de berg Ida, gevoed door de geit Amalthea, terwijl de Kureten (gewapende krijgers) op hun schilden sloegen om het gehuil van de baby te overstemmen voor de oren van Cronus.
 
-POSEIDON - DE HEERSER VAN DE ZEEËN
-Poseidon, de broer van Zeus, kreeg het rijk van de wateren. Met zijn drietand kan hij de zee doen kolken en de aarde doen beven. Hij schiep het paard uit de schuimende golven. Zeevarenden brengen hem offers in de hoop op een behouden vaart, want zijn toorn is zo diep en onvoorspelbaar als de oceaan zelf.
+De Titanomachie: Een Wereld in Brand
+Toen Zeus volwassen was, keerde hij terug. Met de hulp van Metis gaf hij Cronus een braakmiddel. Eén voor één braakte de Titaan zijn volwassen kinderen uit. De oorlog die volgde, de Titanomachie, duurde tien jaar en scheurde de hemel open. De Olympiërs vestigden zich op de berg Olympus, terwijl de Titanen de berg Othrys als hun bolwerk kozen.
 
-ATHENA - GODIN VAN WIJSHEID EN STRATEGIE
-Athena werd geboren uit het hoofd van Zeus, volledig bewapend en klaar voor de strijd. In tegenstelling tot Ares, houdt zij van de rechtvaardige oorlog en strategisch inzicht. Zij schonk de olijfboom aan de stad Athene. Zij is de beschermvrouwe van handwerk, kunst en de beschaving. Haar vogel is de uil, het symbool van scherpe blik in het duister.
+De aarde beefde onder de voetstappen van de reuzen. De zeeën kookten. Uiteindelijk bevrijdde Zeus de Cyclopen uit de Tartarus. Als dank smeedden zij de bliksemschichten voor Zeus, de drietand voor Poseidon en de onzichtbaarheidshelm voor Hades. Met deze wapens en de hulp van de honderdhandige reuzen (de Hecatoncheiren), die driehonderd rotsblokken tegelijk wierpen, werden de Titanen verpletterd. Zij werden voor eeuwig geketend in de diepste duisternis van de Tartarus, bewaakt door de honderdhandigen zelf.
 
-HADES - DE HEER VAN DE ONDERWERELD
-Hades regeert over de schimmen in het dodenrijk. Hij is geen kwaadaardige god, maar een onverbiddelijke. Wie zijn rijk betreedt, keert zelden terug. Hij bezit een helm van onzichtbaarheid. Zijn rijk wordt bewaakt door Cerberus, de hond met drie koppen, en de rivier de Styx vormt de grens tussen het leven en de dood.
+DEEL II: HET OLYMPISCHE PANTHEON
+Nu de wereld geordend was, verdeelden de drie broers het universum door middel van loting. Wij hielden de urn vast. Zeus trok de hemel, Poseidon de zeeën, en Hades het schimmige rijk van de doden. De aarde bleef gemeenschappelijk bezit, al was het Zeus die als koning de wetten dicteerde.
 
-DEEL III: HELDEN EN MONSTERS
-HERACLES (HERCULES)
-De grootste van alle sterfelijke helden. Als zoon van Zeus moest hij twaalf onmogelijke werken voltooien om boete te doen voor zijn daden. Hij versloeg de Nemeïsche leeuw, wiens huid ondoordringbaar was, en de Hydra van Lerna, een monster met vele koppen dat telkens weer aangroeide.
+Zeus, de Wolkenverzamelaar
+Zeus is de handhaver van de Xenia (de wet van gastvrijheid). Wie een vreemdeling kwaad doet, roept de toorn van de bliksem over zich af. Hij is een rusteloze god, wiens lusten vaak de bron zijn van nieuwe draden in ons weefgetouw. Hij verscheen aan Europa als een witte stier, aan Leda als een zwaan, en aan Danaë als een regen van goud. Uit deze ontmoetingen kwamen de helden voort die de wereld zouden vormgeven.
 
-PERSEUS EN DE MEDUSA
-Perseus, gewapend met gevleugelde sandalen van Hermes en een schild van Athena, trok ten strijde tegen de Gorgon Medusa. Eenieder die haar aankeek, veranderde in steen. Door haar spiegelbeeld in zijn schild te bekijken, wist hij haar hoofd af te hakken. Uit haar bloed ontstond Pegasus, het gevleugelde paard.
+Hera, de Onverbiddelijke Koningin
+Hera is niet alleen de godin van het huwelijk; zij is de bewaakster van de goddelijke status quo. Haar jaloezie is legendarisch, maar het komt voort uit een diepe noodzaak om de orde te bewaren. Zij vervolgde de minnaressen van Zeus en hun kinderen met een vurigheid die generaties lang aanhield. Denk aan Heracles, die zij zijn leven lang kwelde met waanzin en beproevingen.
 
-DEEL IV: DE SCHIKGODINNEN (THE FATES) - MOIRAI
-Wij zijn de drie zusters die over het lot van goden en mensen waken.
+Poseidon, de Aardschokker
+Zijn paleis ligt in de diepten van de Egeïsche Zee, versierd met koraal en edelstenen. Poseidon is de god van de uitersten. De ene dag schenkt hij een kalme spiegeling aan de vissers, de volgende dag verplettert hij vloten met golven zo hoog als bergen. Hij is de vader van monsters (zoals de Cycloop Polyphemus) en edele paarden. Zijn humeur is even veranderlijk als het getij.
 
-Clotho: De spinster. Zij spint de draad van het leven.
+Athena, de Maagd van het Inzicht
+Athena is de enige godheid die de bliksemschicht van Zeus mag hanteren. Zij is de godin van de strategische oorlogsvoering, van het weven (een ambacht dat ons na aan het hart ligt) en van de wijsheid. In de strijd tussen Poseidon en Athena om de stad Athene, won zij door de olijfboom te schenken—een symbool van vrede en voorspoed boven de zoute bron van de zeegeod.
 
-Lachesis: De verdeler. Zij meet de draad van het leven af met haar staf en bepaalt de lengte ervan.
+DEEL III: DE TWAALF WERKEN VAN HERACLES
+Geen sterveling heeft ons weefgetouw zo op de proef gesteld als Heracles. Gedreven door de waanzin die Hera over hem uitstortte, vermoordde hij zijn eigen vrouw en kinderen. Om zijn ziel te zuiveren, moest hij koning Eurystheus dienen en twaalf schier onmogelijke taken voltooien.
 
-Atropos: De onafwendbare. Zij is degene die de draad doorknipt met haar gouden schaar, waarmee zij het einde van een leven bepaalt.
-Zelfs Zeus kan onze beslissingen niet volledig veranderen, want het lot is geweven in de kern van de kosmos.
+De Nemeïsche Leeuw: Een beest met een huid die geen enkel wapen kon doordringen. Heracles wurgde het monster met zijn blote handen en gebruikte de eigen klauwen van de leeuw om de huid te villen. Sindsdien draagt hij de leeuwenhuid als onverwoestbaar pantser.
+
+De Hydra van Lerna: Een waterslang met negen koppen. Voor elke kop die Heracles afsloeg, groeiden er twee terug. Met de hulp van zijn neef Iolaus schroeide hij de stompen dicht met vuur.
+
+De Hinde van Ceryneia: Een dier met gouden gewei, gewijd aan Artemis. Heracles joeg er een jaar lang op voordat hij het dier levend ving zonder een druppel bloed te vergieten.
+
+Het Erymanthische Zwijntje: Een woest monster dat de dorpen teisterde. Heracles dreef het in de diepe sneeuw tot het uitgeput raakte.
+
+De Augiasstal: De stallen van koning Augias waren in dertig jaar niet schoongemaakt. Heracles verlegde de loop van twee rivieren, de Alpheus en de Peneus, om de stallen in één dag schoon te spoelen.
+
+De Stymphalische Vogels: Vogels met metalen veren die zij als pijlen afschoten. Met koperen kleppers, gekregen van Athena, joeg hij ze op en schoot ze neer.
+
+De Stier van Kreta: Een prachtig maar krankzinnig beest dat Poseidon uit de zee had laten komen. Heracles bedwong de stier en bracht hem op zijn rug over de zee naar Griekenland.
+
+De Paarden van Diomedes: Deze merries werden gevoed met mensenvlees. Heracles voerde hun eigen meester aan hen, waarna ze tam werden.
+
+De Gordel van Hippolyte: De koningin van de Amazonen gaf hem haar gordel vrijwillig, maar door de stookgrage Hera liep het uit op een bloedig gevecht.
+
+De Runderen van Geryon: Een monster met drie lichamen op één paar benen. Heracles reisde naar het einde van de wereld om de kudde te stelen.
+
+De Gouden Appels van de Hesperiden: Heracles moest de wereldbol even overnemen van de Titaan Atlas terwijl deze de appels voor hem haalde. Hier bewees Heracles dat hij niet alleen sterk, maar ook sluw was.
+
+Cerberus uit de Onderwereld: De ultieme taak. Zonder wapens moest hij de driekoppige hond van Hades temmen en naar de bovenwereld brengen.
+
+DEEL IV: HET DRAMA VAN TROJE
+Het Lot van Troje werd bezegeld door een gouden appel met de inscriptie "Voor de Schoonste". Toen de herder-prins Paris de appel aan Aphrodite gaf in ruil voor de liefde van de mooiste vrouw ter wereld (Helena), wisten wij dat de draden van duizenden mannen zouden worden afgeknipt.
+
+De Toorn van Achilles
+Tien jaar lang belegerden de Grieken de muren van Troje. Wij zagen hoe Achilles, de grootste van alle strijders, zijn tent niet uitkwam na een belediging door Agamemnon. Pas toen zijn geliefde Patroclus viel door de hand van de Trojaanse prins Hector, greep Achilles naar zijn speer. De strijd tussen Achilles en Hector was geen gevecht tussen mannen, maar een executie door het Lot. Wij wogen hun zielen op de weegschaal; de schaal van Hector zakte naar de diepte.
+
+Het Paard van Troje
+Uiteindelijk was het niet brute kracht, maar de list van Odysseus die de stad deed vallen. Een houten paard, gevuld met krijgers, werd als "offer" achtergelaten. Terwijl de Trojanen feestvierden, glipten de Grieken naar buiten en staken de stad in brand. De bloedlijn van Priamus werd die nacht uitgewist, precies zoals wij het eeuwen daarvoor in het weefsel hadden voorzien.
+
+DEEL V: DE REIS VAN ODYSSEUS (DE ODYSSEE)
+Terwijl de andere helden naar huis keerden, was voor Odysseus de beproeving pas begonnen. Tien jaar lang zwerfde hij over de zeeën.
+
+De Cycloop: Hij stak het oog uit van Polyphemus, de zoon van Poseidon, en riep daarmee de eeuwige vloek van de zee over zich af.
+
+Circe: De tovenares die zijn mannen in zwijnen veranderde, maar uiteindelijk zijn minnares en gids werd.
+
+De Sirenen: Odysseus liet zich aan de mast binden om hun dodelijke gezang te horen zonder in de afgrond te springen.
+
+Scylla en Charybdis: Het monster met de zes koppen en de allesverslindende draaikolk. Hier leerde de held dat leiderschap soms betekent dat je een paar levens moet opofferen om de rest te redden.
+
+Dat begrijp ik volledig. In de wereld van tekstbestanden en code is "10 pagina's" een abstract begrip. Om je een idee te geven: in een standaard Word-document met lettertype 12 (Arial/Calibri) heb je ongeveer 4.500 tot 5.000 woorden nodig om de 10 pagina's vol te maken.
+
+Hieronder heb ik de tekst gigantisch uitgebreid met drie cruciale hoofdstukken die nog ontbraken: de schepping van de mens door Prometheus, de doos van Pandora, de volledige Odyssee (inclusief de beproevingen) en de tragische mythe van Orpheus en Eurydice.
+
+Voeg dit toe aan je myths_source.txt:
+
+DEEL VI: DE SCHEPPING EN DE VAL VAN DE MENSHEID
+In de vroege dagen van de Olympische heerschappij was de aarde nog leeg van stervelingen. Het was de Titaan Prometheus, de "Vooruitziende", die de opdracht kreeg om leven te blazen in de klei van de aarde. Hij vormde de mens naar het evenbeeld van de goden, rechtopstaand en met het gezicht naar de sterren gericht.
+
+De Diefstal van het Vuur
+Prometheus hield van zijn creaties, meer dan Zeus lief was. Toen Zeus besloot dat de mensheid het zonder vuur moest stellen, trotseerde Prometheus de koning van de goden. Hij klom naar de Olympus, ontstak een fakkel aan de wagen van de zon en bracht de gloeiende kooltjes in een holle venkelstengel naar de aarde.
+
+Het vuur veranderde alles. De mensheid was niet langer afhankelijk van de grillen van de natuur; zij konden smeden, koken en steden bouwen. Maar Zeus was woedend. Voor zijn straf werd Prometheus aan een rots in de Kaukasus geketend, waar elke dag een arend zijn lever uitpikte, die 's nachts weer aangroeide. Wij zagen de draad van Prometheus: een eeuwige draad van lijden en opoffering.
+
+Pandora en de Pot van Onheil
+Als straf voor de mensheid gaf Zeus de opdracht aan Hephaestus om de eerste vrouw te boetseren: Pandora. Elke god schonk haar een gave—schoonheid, welsprekendheid, muzikaliteit—maar Hermes gaf haar de nieuwsgierigheid. Ze werd naar Epimetheus, de broer van Prometheus, gestuurd met een verzegelde pot (vaak foutief een doos genoemd) als huwelijksgeschenk.
+
+Ondanks alle waarschuwingen kon Pandora haar nieuwsgierigheid niet bedwingen. Ze opende de pot en op dat moment ontsnapten alle plagen van de wereld: ziekte, ouderdom, jaloezie, honger en pijn. Ze sloeg de pot dicht, maar het was te laat. Alleen de Hoop bleef achter op de bodem, als de enige troost voor de sterfelijken die nu hun draden zagen verzwaren met verdriet.
+
+DEEL VII: DE LANGE TERUGKEER VAN ODYSSEUS
+De Trojaanse oorlog was voorbij, maar voor de koning van Ithaca begon de grootste beproeving van zijn leven. Wij maten een draad voor hem af die zich over de gehele bekende wereld zou uitstrekken.
+
+Het Land van de Lotuseters en de Wraak van Poseidon
+Na de plundering van Ismarus belandde Odysseus op het eiland van de Lotuseters. Degenen die van de bloem aten, vergaten hun huis en hun verlangen. Odysseus moest hen met geweld naar de schepen slepen. Maar de echte ramp volgde op het eiland van de Cyclopen. Polyphemus verslond zijn mannen, en alleen door een list—zichzelf "Niemand" noemen en het oog van de reus uitsteken—wisten ze te ontsnappen. Poseidon, de vader van de Cycloop, hoorde de kreten van zijn zoon en zwoer dat Odysseus nooit, of pas na jaren van ellende, zijn huis zou bereiken.
+
+De Betovering van Circe en het Bezoek aan de Doden
+Op het eiland Aeaea veranderde de tovenares Circe de bemanning in varkens. Met de hulp van Hermes wist Odysseus haar te weerstaan en haar hart te winnen. Hij bleef een jaar bij haar, maar de drang naar huis was te sterk. Op advies van Circe daalde hij af naar de onderwereld, de schimmen van de Hades, om de blinde profeet Tiresias te raadplegen. Daar ontmoette hij de geest van zijn moeder en zijn gevallen strijdmakkers uit Troje. Zelfs in de dood blijven de draden van de mens verbonden met hun daden.
+
+Tussen Scylla en Charybdis
+Odysseus moest kiezen tussen twee verschrikkingen. Charybdis, een enorme draaikolk die driemaal daags de zee opslokte, of Scylla, een zeskoppig monster dat in de rotsen woonde. Hij koos voor Scylla, wetende dat hij zes mannen zou verliezen om het hele schip te redden. Het gejammer van zijn mannen die door de koppen uit de boot werden gerukt, was het zwaarste geluid dat de held ooit hoorde.
+
+De Terugkeer en de Boog van de Koning
+Na zeven jaar gevangenschap op het eiland van de nimf Calypso, keerde Odysseus eindelijk terug naar Ithaca, vermomd als een bedelaar. Zijn huis was overspoeld door vrijers die zijn vrouw Penelope wilden dwingen tot een huwelijk en zijn bezittingen verkwistten. Alleen zijn oude hond Argos herkende hem en stierf van geluk. Tijdens de wedstrijd met de grote boog toonde Odysseus zijn ware gezicht. Geen enkele vrijer kon de pees spannen, maar Odysseus schoot de pijl door twaalf bijlringen. De afslachting die volgde was bloedig; wij knipten de draden van de onwaardige vrijers in een enkel uur door.
+
+DEEL VIII: DE TRAGEDIE VAN ORPHEUS EN EURYDICE
+Geen verhaal in ons weefgetouw is zo doordrenkt van weemoed als dat van Orpheus, de goddelijke zanger. Zijn muziek kon de stenen doen huilen en de rivieren doen stilstaan. Toen zijn geliefde Eurydice stierf aan een slangenbeet op hun trouwdag, was zijn verdriet zo groot dat hij besloot de levenden achter te laten.
+
+Een Lied in de Duisternis
+Orpheus daalde af in de Hades. Met zijn lier bedaarde hij Cerberus en bracht hij de kwellers van de Tartarus tot rust. Zelfs de onverbiddelijke Hades en zijn koningin Persephone werden ontroerd door zijn gezang. Zij stonden hem toe Eurydice mee te nemen, op één voorwaarde: hij mocht niet achterom kijken tot ze beiden volledig in het zonlicht stonden.
+
+De Fatale Blik
+Zij liepen door de duistere gangen van de onderwereld. Orpheus voelde de aanwezigheid van zijn vrouw achter zich, maar hij hoorde haar voetstappen niet—schimmen maken immers geen geluid. Net voordat hij de drempel van de bovenwereld overstak, werd de twijfel hem te groot. Hij keek om. In een fractie van een seconde zag hij haar gezicht, waarna zij voor eeuwig teruggleed in de schaduwen. Zijn draad was nog niet ten einde, maar zijn hart was al gestorven.
+
+DEEL IX: DE MOIRAI EN HET UNIVERSELE EVENWICHT
+Waarom weven wij? Waarom moet de held vallen en de tiran soms bloeien? Het is niet aan ons om te oordelen, maar om het evenwicht te bewaren.
+
+De goden op de Olympus lachen en drinken nectar, maar zij zijn net zozeer gebonden aan de wetten van de kosmos als de kleinste mier. Wanneer Clotho de spoel pakt, zet zij een beweging in gang die niet gestopt kan worden. Wanneer Lachesis de maatstaf legt, is de weg bepaald. En wanneer Atropos haar scharen slijpt, is de cirkel rond.
+
+Dit is de ultieme uitbreiding. We duiken nu in de duisterste en meest complexe verhalen van de Griekse mythologie: de bloedvloek van het huis van Atreus, de tragedie van Oedipus en de epische zoektocht van Jason en de Argonauten.
+
+Met deze toevoeging erbij heb je een gigantisch manuscript dat, mits gepresenteerd met een normale regelafstand, de 10 pagina's ruim overschrijdt.
+
+DEEL X: DE ARGONAUTEN EN HET GULDEN VLIES
+Voordat Heracles zijn werken voltooide en voordat Troje brandde, was er Jason. Hij was de rechtmatige erfgenaam van de troon van Iolcus, maar zijn oom Pelias had de macht gegrepen. Pelias beloofde de troon af te staan, maar alleen als Jason hem het legendarische Gulden Vlies zou brengen—de gouden huid van een goddelijke ram, bewaakt door een draak die nooit sliep in het verre Colchis.
+
+De Bouw van de Argo
+Jason verzamelde de grootste helden van een generatie: de sterke Heracles, de vliegende zonen van de Noordenwind (Zetes en Calais), de zanger Orpheus en de vlijmscherpe Castor en Pollux. Zij bouwden de Argo, een schip met een sprekend boegbeeld gesneden uit een eik van het heilige woud van Dodona. Wij, de Fates, keken toe hoe zij de zee opgingen; hun draden waren verstrengeld tot een dik touw van moed en verraad.
+
+Medea: De Giftige Liefde
+In Colchis werd Jason geconfronteerd met onmogelijke opdrachten van koning Aeëtes. Hij moest vuurspuwende stieren temmen en een leger van krijgers verslaan die uit de tanden van een draak groeiden. Het was Medea, de dochter van de koning en een machtige tovenares, die hem redde. Gedreven door de pijlen van Eros, hielp zij Jason met kruiden en bezweringen. Ze stal het Vlies voor hem, vermoordde haar eigen broer om hun ontsnapping te dekken, en vluchtte met Jason naar Griekenland. Maar liefde die met bloed begint, eindigt zelden in vrede. Toen Jason haar later verliet voor een andere prinses, nam Medea wraak op een manier die zelfs de goden deed huiveren: zij vermoordde haar eigen kinderen om Jason te kwellen.
+
+DEEL XI: DE TRAGEDIE VAN OEDIPUS EN HET HUIS VAN THEBE
+Nergens is onze macht duidelijker dan in het verhaal van Oedipus. Het Lot is geen pad dat je kunt vermijden; het is het pad dat je bewandelt juist door het te proberen te vermijden.
+
+De Onvermijdelijke Vloek
+Koning Laius van Thebe kreeg van het Orakel van Delphi te horen dat zijn eigen zoon hem zou doden en met zijn vrouw zou trouwen. Om dit te voorkomen, liet hij de baby met doorboorde enkels achter in de bergen. Maar de herdersvlam van medelijden brandde sterker dan de angst van de koning. Het kind werd gered en opgevoed in Korinthe als prins Oedipus.
+
+Toen Oedipus volwassen was en dezelfde profetie hoorde, ontvluchtte hij Korinthe, denkend dat hij zijn ouders beschermde. Op een driesprong kwam hij een man tegen. Een ruzie over voorrang ontaardde in geweld; Oedipus doodde de man. Hij wist niet dat het Laius was, zijn echte vader.
+
+De Sfinx en de Val
+Oedipus arriveerde in Thebe, dat geteisterd werd door de Sfinx, een monster met het lichaam van een leeuw en het hoofd van een vrouw. Zij stelde elke reiziger een raadsel: "Wat loopt 's ochtends op vier benen, 's middags op twee en 's avonds op drie?"
+Oedipus antwoordde: "De mens."
+De Sfinx wierp zich van de rotsen en Thebe eerde haar redder door hem tot koning te kronen en hem de hand van de weduwe-koningin, Jocaste, te geven. Jaren later, toen de pest de stad trof, kwam de gruwelijke waarheid aan het licht. Oedipus had zijn vader gedood en kinderen verwekt bij zijn moeder. Jocaste benam zich het leven, en Oedipus stak zijn eigen ogen uit, gedoemd om als blinde bedelaar door de wereld te dwalen—een levend bewijs dat niemand gelukkig mag worden genoemd voordat zijn draad volledig is afgeknipt.
+
+DEEL XII: DE BLOEDWRAAK VAN HET HUIS VAN ATREUS
+Het huis van de Griekse aanvoerder Agamemnon was vervloekt door generaties van misdaad. Het begon bij Tantalus, die de goden bedroog door zijn eigen zoon te serveren als maal, en het eindigde in een eindeloze cyclus van moord.
+
+De Terugkeer van de Koning
+Toen Agamemnon terugkeerde uit Troje, wachtte zijn vrouw Clytaemnestra hem op. Zij was de dood van hun dochter Iphigeneia, die Agamemnon had geofferd voor een gunstige wind naar Troje, nooit vergeten. Terwijl hij in bad stapte, wierp zij een net over hem heen en stak hem neer met de hulp van haar minnaar. De koning van de Grieken, die de muren van Troje had geslecht, stierf als een dier in een val.
+
+Orestes en de Erinyen
+De cirkel moest worden gesloten. Orestes, de zoon van Agamemnon, kreeg van Apollo de opdracht zijn vader te wreken door zijn moeder te doden. Een zoon die zijn moeder doodt, begaat de grootste zonde in de natuur. Zodra het zwaard viel, verschenen de Erinyen—de wraakgodinnen met slangen als haar. Zij achtervolgden Orestes tot aan de rand van de waanzin. Pas toen Athena een rechtbank instelde in Athene en de cirkel van bloedwraak verving door rechtspraak, vond de ziel van Orestes rust.
+
+DEEL XIII: DE VAL VAN ICARUS EN DE HOOGMOED VAN DE MENS
+De mensheid heeft altijd geprobeerd om boven haar draden uit te stijgen. Daedalus was de grootste uitvinder van zijn tijd; hij bouwde het Labyrinth voor de Minotaurus op Kreta. Maar toen hij gevangen werd gezet door koning Minos, ontwierp hij de ultieme ontsnapping: vleugels van veren en was.
+
+Hij waarschuwde zijn zoon Icarus: "Vlieg niet te laag, want de zee maakt je veren zwaar. Vlieg niet te hoog, want de zon zal de was smelten."
+Maar de opwinding van de vlucht, de goddelijke sensatie van het zweven, maakte Icarus roekeloos. Hij vloog hoger en hoger, richting de gouden wagen van Helios. De was smolt, de veren lieten los, en wij keken toe hoe zijn korte, glanzende draad abrupt eindigde in de blauwe golven van de Egeïsche Zee. Het is de eeuwige les van de Hybris: wie als een god wil vliegen, zal als een mens vallen.
+
+DEEL XIV: DE EEUWIGE STRAFFEN IN DE TARTARUS
+Voor degenen die de goden of de natuurlijke orde tarten, hebben wij een speciale plek gereserveerd in de diepste krochten van de onderwereld. Hun draden eindigen niet, maar worden gevlochten in een eeuwige herhaling van lijden.
+
+Sisyphus: Hij bedroog de Dood zelf en boeide Thanatos in zijn eigen kerker. Nu moet hij voor eeuwig een enorm rotsblok tegen een steile berg opduwen. Telkens wanneer hij de top bereikt, ontsnapt de steen aan zijn grip en rolt terug naar het dal.
+
+Tantalus: Hij staat in een vijver met water tot aan zijn kin, met heerlijke vruchten boven zijn hoofd. Telkens wanneer hij wil drinken, zakt het water weg. Telkens wanneer hij een vrucht wil plukken, waait de wind de takken weg. Hij lijdt eeuwige honger en dorst midden in de overvloed.
+
+Ixion: De man die Hera probeerde te verleiden, is vastgeketend aan een vlammend wiel dat eeuwig ronddraait in de leegte.
+
+De Danaïden: Veertig dochters die hun echtgenoten vermoordden op hun huwelijksnacht. Zij moeten een bodemloos vat vullen met water—een taak die nooit zal eindigen.
+
+DEEL XV: HET LAATSTE WEERZIEN
+Wij zijn Clotho, Lachesis en Atropos. Onze vingers zijn moe, maar de spoel stopt nooit. Sinds de eerste vonk van Prometheus tot de laatste zucht van de laatste held, zijn wij de enige constante.
+
+Mensen bouwen tempels voor Zeus en offeren aan Poseidon, maar zelfs zij weten dat de goden slechts spelers zijn op het toneel dat wij hebben gebouwd. Het weefgetouw trilt onder de spanning van miljarden levens. Elke knoop is een ontmoeting, elke kleurverandering is een emotie, en elke afgeknipte draad is een herinnering die wordt opgenomen in de aarde.
+
+Dit is de definitieve krachtinspanning. Om te garanderen dat je de grens van 10 pagina's (ongeveer 5.000+ woorden) met gemak overschrijdt, voegen we nu de meest gedetailleerde en tekst-zware verhalen toe die de Griekse mythologie rijk is: de volledige tragedie van Persephone en Demeter (de seizoenen), de complexe mythe van Eros en Psyche, en het duistere epos van de Zeven tegen Thebe.
+
+Voeg dit onderaan je myths_source.txt toe:
+
+DEEL XVI: HET VERLIES VAN DE LENTE – DEMETER EN PERSEPHONE
+De draden van de goden zijn vaak verstrengeld met de natuur zelf. Demeter, de godin van de landbouw en de oogst, had een dochter, Persephone, wiens glimlach de bloemen deed bloeien. Maar Hades, de heer van de doden, begeerde haar als zijn koningin. Terwijl Persephone narcissen plukte in de velden van Nysa, spleet de aarde open. Hades verscheen in zijn gouden wagen en sleurde haar mee naar de duisternis.
+
+De Rouw van de Moeder
+Toen Demeter de verdwijning van haar kind ontdekte, werd haar verdriet een vloek voor de wereld. Zij weigerde de granen te laten groeien. De bladeren verdorden, de aarde barstte van droogte en de mensheid dreigde te verhongeren. Wij zagen de draad van de wereld bleek en broos worden. Zelfs Zeus kon de hongersnood niet negeren. Hij stuurde Hermes naar de Onderwereld om Persephone terug te eisen.
+
+De Granaatappelpitjes
+Hades stemde toe, maar hij was listig. Voordat Persephone vertrok, gaf hij haar enkele pitjes van een granaatappel te eten. Wie van het voedsel van de doden proeft, is voor eeuwig aan de Onderwereld verbonden. Er werd een compromis gesloten: voor elk pitje dat zij had gegeten, moest zij een maand van het jaar in de diepte doorbrengen. Wanneer zij bij haar moeder is, bloeit de wereld (lente en zomer); wanneer zij afdaalt naar Hades, rouwt Demeter opnieuw (herfst en winter). Zo ontstond de cyclus van de seizoenen in ons weefsel.
+
+DEEL XVII: EROS EN PSYCHE – DE BEPROEVING VAN DE ZIEL
+Dit is een van de weinige draden die, ondanks alle knopen, eindigt in een gouden gloed. Psyche was een sterfelijke prinses die zo mooi was dat de mensen Aphrodite vergaten te eren. De woedende godin stuurde haar zoon, Eros (Amor), om Psyche verliefd te laten worden op het lelijkste monster op aarde. Maar Eros prikte zichzelf aan zijn eigen pijl en werd op slag verliefd op haar.
+
+Het Onzichtbare Paleis
+Eros hield Psyche verborgen in een schitterend paleis, maar hij verscheen alleen aan haar in de duisternis van de nacht. Hij verbood haar zijn gezicht te zien. Gedreven door de jaloezie van haar zussen, stak Psyche op een nacht een olielamp aan. Zij zag de goddelijke schoonheid van de slapende Eros, maar een druppel hete olie viel op zijn schouder. De god vloog weg, en Psyche bleef alleen achter. "Liefde kan niet leven waar geen vertrouwen is," was zijn afscheid.
+
+De Taken van Aphrodite
+Psyche zocht over de hele wereld naar haar geliefde en gaf zichzelf uiteindelijk over aan Aphrodite. De godin gaf haar vier onmogelijke taken:
+
+Het sorteren van een berg zaden: Mieren hielpen haar uit medelijden.
+
+Het verzamelen van gouden wol: Een rietstengel adviseerde haar te wachten tot de schapen in de schaduw rustten.
+
+Water halen uit de Styx: De arend van Zeus vulde de kristallen flacon voor haar.
+
+Een doosje schoonheid halen bij Persephone: Psyche daalde af naar de Hades en slaagde, maar haar nieuwsgierigheid overwon haar opnieuw. Ze opende het doosje en viel in een dodelijke slaap.
+
+Eros kon het niet langer aanzien. Hij veegde de slaap van haar gezicht en smeekte Zeus om haar onsterfelijk te maken. Psyche werd de godin van de ziel, en hun draad werd verheven tot in de hoogste hemelen.
+
+DEEL XVIII: DE ZEVEN TEGEN THEBE – DE SCHEURING VAN EEN RIJK
+Na de val van Oedipus bleven zijn zonen, Eteocles en Polynices, achter in een gebroken stad. Zij spraken af om om het jaar te regeren, maar de machtswellust is een gif dat elke draad zwart kleurt. Eteocles weigerde de troon af te staan. Polynices verzamelde zes andere helden en trok ten strijde tegen zijn eigen geboortestad.
+
+De Zeven Poorten
+Zeven helden stonden voor de zeven poorten van Thebe. Het was een broederstrijd die de hemel deed huiveren. Bij elke poort viel een held, en bij elke poort stierf een hoop. Uiteindelijk kwamen de twee broers tegenover elkaar te staan. In een laatste, fatale uitval doorboorden zij elkaar gelijktijdig. De vloek van hun vader was voltooid. De draden van het huis van Oedipus waren nu niets meer dan losse eindjes in de wind.
+
+DEEL XIX: BELLEROPHON EN HET TEMMEN VAN PEGASUS
+Bellerophon was een held die ervan droomde de hemel te bestormen. Met een gouden teugel, geschonken door Athena, wist hij het gevleugelde paard Pegasus te temmen terwijl het dronk uit de bron van Peirene. Samen versloegen zij de Chimera, een monster met het hoofd van een leeuw, het lichaam van een geit en de staart van een draak.
+
+Maar succes kweekt hoogmoed. Bellerophon dacht dat hij een plaats verdiende tussen de goden op de Olympus en probeerde op Pegasus naar de top te vliegen. Zeus, beledigd door deze arrogantie, stuurde een horzel die het paard stak. Bellerophon viel en bracht de rest van zijn leven door als een blinde, kreupele zwerver, terwijl Pegasus de sterren bereikte en de drager van de bliksemschichten van Zeus werd.
+
+DEEL XX: DE LAATSTE SPOEL – DE TOEKOMST VAN HET LOT
+Wij, de Fates, zijn er nog steeds. De oude goden worden misschien minder aanbeden, de tempels liggen in puin, en de marmeren beelden zijn hun kleur verloren. Maar de draden die wij spinnen zijn niet veranderd.
+
+De mensheid van vandaag is nog steeds onderhevig aan dezelfde krachten:
+
+De jaloezie van Hera zie je in de harten van de afgunstigen.
+
+De moed van Achilles zie je in degenen die opstaan tegen onrecht.
+
+De nieuwsgierigheid van Pandora zie je in de zoektocht naar nieuwe technieken.
+
+De blinde ambitie van Icarus zie je in degenen die de grenzen van de aarde willen doorbreken.
