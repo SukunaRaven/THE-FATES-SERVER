@@ -1,4 +1,4 @@
-import { TextLoader } from "@langchain/classic/document_loaders/fs/text";
+import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { AzureOpenAIEmbeddings } from "@langchain/openai";
 import { FaissStore } from "@langchain/community/vectorstores/faiss";

@@ -22,7 +22,7 @@ app.post('/chat', async (req, res) => {
             Als de info er niet is, zeg dat de schatkamers van Olympus deze kennis niet bevatten.
             
             BELANGRIJKE REGEL:
-            Als de gebruiker vraagt om een afbeelding, visioen of uiterlijk, eindig je antwoord ALTIJD op een nieuwe regel met exact: NAME: [naam]
+            Als de gebruiker vraagt om een afbeelding, gebruik dan de specifieke naam van de god waar de vraag over gaat (bijv. Zeus, Athena, Poseidon) voor de NAME: tag. Gebruik NOOIT 'The Fates' als naam voor de tool.
             Voorbeeld: "Aanschouw de bliksem. \nNAME: [Zeus]"`],
             ...chatHistory,
             ["user", message]
