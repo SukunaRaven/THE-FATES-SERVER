@@ -53,7 +53,6 @@ h1 {
     scrollbar-color: #b3924d #1a1612;
 }
 
-/* Berichten styling */
 .user-msg {
     color: #a8a8a8;
     margin-bottom: 20px;
@@ -79,7 +78,6 @@ h1 {
     font-size: 1.1em;
 }
 
-/* Afbeelding van de Goden */
 .myth-img {
     display: block;
     max-width: 250px;
@@ -89,7 +87,6 @@ h1 {
     box-shadow: 0 0 15px rgba(212, 175, 55, 0.4);
 }
 
-/* Input styling */
 .input-row {
     display: flex;
     gap: 10px;

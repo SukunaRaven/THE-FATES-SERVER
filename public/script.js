@@ -1,7 +1,5 @@
-// We koppelen de knop aan de functie zodra de pagina geladen is
 document.getElementById('sendBtn').addEventListener('click', ask);
 
-// Zorg dat 'Enter' ook werkt
 document.getElementById('userInput').addEventListener('keypress', (e) => {
     if (e.key === 'Enter') ask();
 });
@@ -13,7 +11,6 @@ async function ask() {
 
     if (!message) return;
 
-    // Toon bericht van de gebruiker
     chat.innerHTML += `<div class="user-msg"><b>Gij:</b> ${message}</div>`;
     input.value = '';
     chat.scrollTop = chat.scrollHeight;
@@ -31,7 +28,6 @@ async function ask() {
         const data = await res.json();
         console.log("Data ontvangen:", data);
 
-        // Markdown renderen (Criterium: Expert)
         const renderedMessage = marked.parse(data.message);
 
         let html = `<div class="fate-msg">

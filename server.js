@@ -42,7 +42,6 @@ app.post('/chat', async (req, res) => {
             const fullNameTag = nameMatch[0];
             const name = nameMatch[1].trim();
 
-            // Verwijder de tag uit de tekst die de gebruiker ziet
             displayMessage = displayMessage.replace(fullNameTag, "").trim();
 
             console.log(`Tool check: Gegevens ophalen voor ${name}...`);
