@@ -32,7 +32,6 @@ async function run() {
         console.log(`Het weven is voltooid! ${chunks.length} chunks opgeslagen in /documents`);
     } catch (error) {
         console.error("De draden zijn geknapt:", error.message);
-        console.log("Check of je .env variabelen exact kloppen met de Azure Portal.");
     }
 }
 

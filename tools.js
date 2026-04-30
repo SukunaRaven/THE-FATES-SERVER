@@ -9,10 +9,10 @@ const vectorStore = await FaissStore.load("./documents", embeddings);
 
 export const getMythData = async (category, name) => {
     try {
-        const response = await fetch(`https://thegreekmythapi.vercel.app/api/${category}/${name.toLowerCase()}`);
+        const cleanName = name.toLowerCase().trim();
+        const response = await fetch(`https://thegreekmythapi.vercel.app/api/${category}/${cleanName}`);
         if (!response.ok) return null;
-        const data = await response.json();
-        return data;
+        return await response.json();
     } catch (error) {
         console.error("API Error:", error);
         return null;
@@ -23,8 +23,4 @@ export const retrieve = async (query) => {
     console.log("De Fates raadplegen de oude rollen voor:", query);
     const docs = await vectorStore.similaritySearch(query, 2);
     return docs.map(d => d.pageContent).join("\n\n");
-};
-
-export const getMythImage = (category, name) => {
-    return `https://thegreekmythapi.vercel.app/api/${category}/${name.toLowerCase()}.png`;
 };

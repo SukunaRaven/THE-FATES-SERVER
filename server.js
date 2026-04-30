@@ -1,6 +1,6 @@
 import express from "express";
 import { model } from "./agent.js";
-import { retrieve, getMythImage, getMythData } from "./tools.js";
+import { retrieve, getMythData } from "./tools.js";
 
 const app = express();
 app.use(express.json());
@@ -14,16 +14,16 @@ app.post('/chat', async (req, res) => {
 
     try {
         const context = await retrieve(message);
-        console.log(context ? "Documenten gevonden." : "⚠ Geen relevante context.");
+        console.log(context ? "Documenten gevonden." : "Geen relevante context.");
 
         const response = await model.invoke([
             ["system", `Jij bent 'The Fates'. Antwoord mystiek en plechtig. 
             Gebruik uitsluitend deze context: ${context}. 
-            Als de info er niet is, zeg dat de schatkamers van Olympus deze kennis niet bevatten.
+
+            REGEL VOOR AFBEELDINGEN:
+            Alleen als de gebruiker expliciet vraagt om een afbeelding, een foto, een visioen of hoe iemand eruitziet, MOET je eindigen op een nieuwe regel met exact: NAME: [Naam]
             
-            BELANGRIJKE REGEL:
-            Als de gebruiker vraagt om een afbeelding, gebruik dan de specifieke naam van de god waar de vraag over gaat (bijv. Zeus, Athena, Poseidon) voor de NAME: tag. Gebruik NOOIT 'The Fates' als naam voor de tool.
-            Voorbeeld: "Aanschouw de bliksem. \nNAME: [Zeus]"`],
+            Als de gebruiker een gewone vraag stelt zonder om beeld te vragen, gebruik de NAME tag dan NIET.`],
             ...chatHistory,
             ["user", message]
         ]);
@@ -32,32 +32,32 @@ app.post('/chat', async (req, res) => {
         chatHistory.push(["assistant", response.content]);
         if (chatHistory.length > 10) chatHistory.shift();
 
-        let displayMessage = typeof response.content === 'string' ? response.content : JSON.stringify(response.content);
+        let displayMessage = response.content;
         let imageUrl = "";
         let toolUsed = "FAISS Retrieval";
 
-        const nameMatch = displayMessage.match(/NAME:\s*\[?([\w\s]+)\]?/i);
+        const nameMatch = displayMessage.match(/NAME:\s*\[?([\w\s]+)]?/i);
 
         if (nameMatch) {
             const fullNameTag = nameMatch[0];
             const name = nameMatch[1].trim();
 
             displayMessage = displayMessage.replace(fullNameTag, "").trim();
-
-            console.log(`Tool check: Gegevens ophalen voor ${name}...`);
+            console.log(`Tool check getriggerd voor: ${name}...`);
 
             const apiData = await getMythData("gods", name);
 
-            if (apiData) {
-                imageUrl = apiData.image || `https://thegreekmythapi.vercel.app/api/gods/${encodeURIComponent(name.toLowerCase())}.png`;
+            if (apiData && apiData.image) {
+                imageUrl = `https://thegreekmythapi.vercel.app${apiData.image}`;
                 toolUsed += " & Greek Myth API";
 
                 displayMessage += `\n\n**Goddelijke feiten (API):**\n`;
-                displayMessage += `* **Krachten:** ${apiData.powers?.join(", ") || "Onbekend"}\n`;
-                displayMessage += `* **Attributen:** ${apiData.attributes?.join(", ") || "Geen"}`;
+                displayMessage += `* **Beschrijving:** ${apiData.description}\n`;
+                displayMessage += `* **Krachten:** ${apiData.attributes?.powers?.join(", ") || "Zie rollen"}`;
             } else {
-                imageUrl = `https://thegreekmythapi.vercel.app/api/gods/${encodeURIComponent(name.toLowerCase())}.png`;
-                console.log("Geen API data, fallback naar directe URL.");
+                imageUrl = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(name)}.jpg`;
+                console.log("Fallback naar Wikimedia voor:", name);
+                toolUsed += " & Wikimedia Fallback";
             }
         }
 
