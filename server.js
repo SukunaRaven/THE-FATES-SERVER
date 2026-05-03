@@ -64,7 +64,7 @@ app.post('/chat', async (req, res) => {
         res.json({
             message: displayMessage,
             image: imageUrl,
-            source: "De Oude Rollen (FAISS Index)",
+            source: `De oude rollen: ${toolUsed}`,
             debugInfo: `Gebruikte tools: ${toolUsed}`
         });
 
